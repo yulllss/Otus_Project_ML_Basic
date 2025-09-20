@@ -25,8 +25,7 @@ Duration: last contact duration, in seconds (numeric). Important note: this attr
 
 Другие атрибуты:
 Campaign: number of contacts performed during this campaign and for this client (numeric, includes last contact)
-Pdays: number of days that passed by after the client was last contacted from a previous campaign (numeric; 999 means client was not
-previously contacted)
+Pdays: number of days that passed by after the client was last contacted from a previous campaign (numeric; 999 means client was not previously contacted)
 Previous: number of contacts performed before this campaign and for this client (numeric)
 Poutcome: outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')
 
